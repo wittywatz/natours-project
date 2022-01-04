@@ -19,8 +19,6 @@ const bookBtn = document.getElementById('book-tour');
 if (mapBox) {
   const locations = JSON.parse(mapBox.dataset.locations);
   displayMap(locations);
-} else {
-  console.log('mapBox absent');
 }
 
 if (loginForm)
