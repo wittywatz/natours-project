@@ -1,3 +1,3 @@
 # natours-project
 
-#Deployed on Heroku https://shareme-social-app.netlify.app/
+#Deployed on Heroku https://natours-watson.herokuapp.com
